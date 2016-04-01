@@ -1,3 +1,4 @@
+branch gt
 kconf hardware kernel_audio.cfg
 kconf hardware kernel_boot.cfg
 kconf hardware kernel_connectivity.cfg
